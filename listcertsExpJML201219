@@ -1,0 +1,1882 @@
+[0;36mf9678e6f2a5f456c8356287a3af94ab1[0;0m:
+    [0;32ml021000002403a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139792693450384:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139751859979920:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139854332479120:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139905634694800:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140076380276368:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Apr  1 20:52:08 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140433480590992:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Apr  1 20:52:11 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002403a-bundle.pem[0;0m
+    [0;32mnotAfter=Apr  1 20:52:12 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140310242104976:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr  1 21:07:19 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr  1 22:10:01 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140368158926480:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Apr  1 20:52:11 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140423136069264:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Apr  1 20:52:12 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Apr  1 21:07:19 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139766061164176:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Apr  1 22:10:01 2020 GMT[0;0m
+[0;36m3a0f64d4c35943508bd615c32a83318c[0;0m:
+    [0;32ml021000002422a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139660414383760:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140094208960144:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139875447588496:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/certs.tgz[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140656081389200:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140308921321104:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140144727393936:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:10:53 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139729947653776:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 22:10:56 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002422a-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 22:10:57 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140634784032400:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 22:26:05 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Dec 10 14:13:31 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140471269103248:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:10:56 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140464226182800:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:10:57 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:26:05 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139971216782992:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Dec 10 14:13:31 2020 GMT[0;0m
+[0;36m7a4a51e88a3a4d0c8aa1a2b6d4e063db[0;0m:
+    [0;32ml021000002421a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140666008356496:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140497541801616:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140669895681680:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/certs.tgz[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139810812753552:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139946969020048:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140424617199248:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:26:28 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140434483295888:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 22:26:30 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002421a-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 22:26:32 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139684815496848:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 22:41:40 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Dec 10 14:13:32 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140426119808656:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:26:30 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140176149337744:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:26:32 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:41:40 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139784768296592:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Dec 10 14:13:32 2020 GMT[0;0m
+[0;36m33f7d4b89aa44e9d8617e973c90286f7[0;0m:
+    [0;32ml021000002418a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140049252972176:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140307913655952:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140526121891472:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/certs.tgz[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139660936193680:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139946526545552:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140178645853840:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:55:11 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139918212658832:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 21:55:14 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002418a-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 21:55:15 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140158726231696:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 22:10:21 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Dec 10 14:13:28 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139636388087440:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:55:14 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140672179869328:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:55:15 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:10:21 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140037673563792:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Dec 10 14:13:28 2020 GMT[0;0m
+[0;36m28c33bbbb7e346fca0cc3356482c37c4[0;0m:
+    [0;32ml021000002420a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139770892560016:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140588035995280:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139957563811472:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/certs.tgz[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139809953883792:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140419273721488:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139885821404816:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:42:11 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139952646555280:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 22:42:13 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002420a-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 22:42:14 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140510466238096:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 22:57:21 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Dec 10 14:13:40 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139898539075216:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:42:13 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139929474438800:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:42:14 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:57:21 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139887929345680:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Dec 10 14:13:40 2020 GMT[0;0m
+[0;36mab3667087764445e92cd6489225a4b83[0;0m:
+    [0;32ml021000002423a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140439771592336:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140300378445456:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139818297804432:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/certs.tgz[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139956497798800:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140603959473808:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140201488696976:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:39:17 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140692623529616:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 21:39:20 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002423a-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 21:39:21 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140351667238544:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 21:54:28 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Dec 10 14:13:17 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139627307280016:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:39:20 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140008438503056:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:39:21 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:54:28 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140074424759952:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Dec 10 14:13:17 2020 GMT[0;0m
+[0;36mfcc518efa5fc443e827949fa2447c6b5[0;0m:
+    [0;32ml021000002419a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139797020202640:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140016783636112:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140531782624912:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/certs.tgz[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140604950734480:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139812073322128:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140053148350096:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:21:55 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140295348328080:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 21:21:58 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002419a-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 21:22:02 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139890292737680:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Dec  9 21:37:08 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Dec 10 14:13:01 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139844450514576:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:21:58 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140315115144848:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:22:02 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:37:08 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140225850263184:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Dec 10 14:13:01 2020 GMT[0;0m
+[0;36m2e506d0bbbac483cbe9ee53aa47621fd[0;0m:
+    [0;32ml021000002411a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140568744244880:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140339705824912:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140257974404752:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139719972714128:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139974393951888:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:48:49 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140164808238736:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 07:48:53 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002411a-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 07:48:54 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140407698183824:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 08:04:01 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 08:49:13 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140269897832080:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:48:53 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140487665301136:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:48:54 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:04:01 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140215087498896:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:49:13 2020 GMT[0;0m
+[0;36m7f0f818d7697467d9697402d74e08494[0;0m:
+    [0;32ml021000002413a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140196992579216:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139697373632144:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139636795963024:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/certs.tgz[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140333260256912:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139626682824336:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139939492947600:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:20:41 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139849127638672:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 08:20:46 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002413a-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 08:20:47 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139975776102032:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 08:35:53 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 08:49:23 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140274458969744:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:20:46 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140558796994192:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:20:47 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:35:53 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140423579293328:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:49:23 2020 GMT[0;0m
+[0;36m89d8550753054418963cfe7790c79e2d[0;0m:
+    [0;32ml021000002414a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139704847279760:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139633432401552:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140101259990672:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140522758170256:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139981462046352:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:32:50 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140639226685072:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 07:32:54 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002414a-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 07:32:55 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140100429293200:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 07:48:01 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 08:49:12 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140604999849616:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:32:54 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140293934737040:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:32:55 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:48:01 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140559050319504:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:49:12 2020 GMT[0;0m
+[0;36md804700f930d43859c569dd5a2dd4fa8[0;0m:
+    [0;32ml021000002407a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140456226555536:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140718333597328:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140207309571728:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139656634529424:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140613329008272:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Apr 12 09:41:39 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139639259731600:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 09:41:43 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002407a-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 09:41:44 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140015037748880:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 09:56:50 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 10:07:39 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139639826286224:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Apr 12 09:41:43 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140592279795344:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Apr 12 09:41:44 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Apr 12 09:56:50 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140277727704720:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Apr 12 10:07:39 2020 GMT[0;0m
+[0;36mb33d8bf470654468baad0982a44eb91c[0;0m:
+    [0;32ml021000002405a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140273911707280:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139854867490448:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140550306915984:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139633371944592:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139790566254224:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Apr  1 23:00:04 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140429862282896:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Apr  1 23:00:08 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002405a-bundle.pem[0;0m
+    [0;32mnotAfter=Apr  1 23:00:10 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140419771258512:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr  1 23:15:17 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr  1 23:26:16 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140031347046032:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Apr  1 23:00:08 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139732703012496:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Apr  1 23:00:10 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Apr  1 23:15:17 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140564378756752:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Apr  1 23:26:16 2020 GMT[0;0m
+[0;36m801933d3e3fc489b8d0d5092265a9b41[0;0m:
+    [0;32ml021000002409a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139951118390928:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140074062263952:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140188088903312:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140375292143248:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140683652060816:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:03:07 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140519638169232:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Mar 28 01:03:13 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002409a-bundle.pem[0;0m
+    [0;32mnotAfter=Mar 28 01:03:15 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139806792517264:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Mar 28 01:18:22 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Mar 28 01:53:01 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140146141087376:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:03:13 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140303991801488:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:03:15 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:18:22 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139673394316944:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:53:01 2020 GMT[0;0m
+[0;36ma2ce61f800ff498aaa5e152391f51376[0;0m:
+    [0;32ml021000002412a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140717087778448:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139764659230352:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139837766129296:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140681417037456:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140659365320336:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:04:23 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140382923302544:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 08:04:27 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002412a-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 08:04:28 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140696720246416:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 08:19:35 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Apr 12 08:49:13 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139945522878096:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:04:27 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139693885220496:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:04:28 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:19:35 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139818725598864:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:49:13 2020 GMT[0;0m
+[0;36m761b4de5bd584a6c97d2f992685b0604[0;0m:
+    [0;32ml021000002408a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140289078740624:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140534408046224:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140066595059344:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139632090756752:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139957870163600:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:31:47 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140627383715472:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Mar 28 00:31:52 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002408a-bundle.pem[0;0m
+    [0;32mnotAfter=Mar 28 00:31:54 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139921304299152:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Mar 28 00:47:01 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Mar 28 01:52:59 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140044826633872:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:31:52 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139709046785680:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:31:54 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:47:01 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139750448584336:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:52:59 2020 GMT[0;0m
+[0;36m36993bfb74324285845a9cb210a8b44e[0;0m:
+    [0;32ml021000002410a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140386516993680:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140708417992336:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140376598767248:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139668754626192:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140312017962640:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:47:23 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140689867167376:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Mar 28 00:47:28 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002410a-bundle.pem[0;0m
+    [0;32mnotAfter=Mar 28 00:47:29 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140618124080784:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Mar 28 01:02:36 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Mar 28 01:53:02 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139977285154448:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:47:28 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140478366062224:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:47:29 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:02:36 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140523051124368:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:53:02 2020 GMT[0;0m
+[0;36m0f9405edaa7440649fd6c0ef7e6d6a62[0;0m:
+    [0;32ml021000002402a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139753207113360:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140397988931216:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140677930972816:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140667642304144:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:40:49 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140222016173712:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:42:16 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002402a-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:42:17 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140100769515152:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:42:22 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:44:25 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-client-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:44:27 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-kubelet-client-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:44:28 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-controller-manager-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 20:00:47 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-scheduler-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 20:00:49 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 20:00:51 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140268248532624:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:42:16 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139996545435280:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:42:17 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:42:22 2020 GMT[0;0m
+    [0;32m/etc/pki/sa.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139669039216272:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-apiserver.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140080109426320:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-apiserver.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:25 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy-client.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139957159720592:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy-client.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:27 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-kubelet-client.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140281925408400:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-apiserver-kubelet-client.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:28 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-controller-mgr.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139897091253904:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-controller-mgr.crt[0;0m
+    [0;32mnotAfter=Nov 19 20:00:47 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-scheduler.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140561858000528:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-scheduler.crt[0;0m
+    [0;32mnotAfter=Nov 19 20:00:49 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140545630181008:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Nov 19 20:00:51 2020 GMT[0;0m
+[0;36m364187f81b434218823aa69ba8fb93e1[0;0m:
+    [0;32ml021000002404a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139709263931024:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140635726399120:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140179645187728:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140697176946320:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:40:49 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140153637443216:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:43:38 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002404a-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:43:39 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140195375539856:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:43:43 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:44:25 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-client-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:44:26 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-kubelet-client-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:44:27 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-controller-manager-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 22:39:20 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-scheduler-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 22:39:21 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 22:39:23 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139902919517840:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:43:38 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139913716627088:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:43:39 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:43:43 2020 GMT[0;0m
+    [0;32m/etc/pki/sa.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139993973155472:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-apiserver.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140148414699152:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-apiserver.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:25 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy-client.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139906885359248:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy-client.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:26 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-kubelet-client.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140542807361168:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-apiserver-kubelet-client.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:27 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-controller-mgr.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139881075201680:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-controller-mgr.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:39:20 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-scheduler.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140699441591952:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-scheduler.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:39:21 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139683070301840:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:39:23 2020 GMT[0;0m
+[0;36m6c95323d34cd42bca0c0da7740b2c185[0;0m:
+    [0;32ml021000002406a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140020638062224:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140616359081616:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140014761678480:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140482464499344:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:40:49 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139767143081616:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:43:26 2020 GMT[0;0m
+    [0;32m/etc/pki/private/node:l021000002406a-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:43:27 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140341250176656:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:43:32 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:44:25 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-client-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:44:26 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-kubelet-client-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 17:44:27 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-controller-manager-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 22:39:20 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-scheduler-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 22:39:21 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 22:39:23 2020 GMT[0;0m
+    [0;32m/etc/pki/private/dex-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 19 22:40:24 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140283602351760:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:43:26 2020 GMT[0;0m
+    [0;32m/etc/pki/kubelet.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140071765575312:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubelet.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:43:27 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:43:32 2020 GMT[0;0m
+    [0;32m/etc/pki/sa.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139691688363664:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-apiserver.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140180830545552:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-apiserver.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:25 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy-client.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139947668072080:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy-client.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:26 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-kubelet-client.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139976143103632:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-apiserver-kubelet-client.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:27 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-controller-mgr.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140545433314960:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-controller-mgr.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:39:20 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-scheduler.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139745918228112:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-scheduler.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:39:21 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139982641911440:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kube-proxy.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:39:23 2020 GMT[0;0m
+    [0;32m/etc/pki/dex.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140400565728912:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/dex.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:40:24 2020 GMT[0;0m
+[0;36madmin[0;0m:
+    [0;32ml021000002401a[0;0m
+    [0;32m/etc/pki[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140314001909392:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140249513199248:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139727863858832:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/trust/anchors/SUSE_CaaSP_CA.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCEIntra01.crt[0;0m
+    [0;32mnotAfter=Nov 29 14:07:23 2027 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/AdminCCRoot01.crt[0;0m
+    [0;32mnotAfter=Nov 29 10:36:01 2042 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/BITProxyCA.crt[0;0m
+    [0;32mnotAfter=Mar 19 13:10:27 2020 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentPublicTrustStandardCA02.crt[0;0m
+    [0;32mnotAfter=May 11 08:36:42 2031 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAII.crt[0;0m
+    [0;32mnotAfter=Feb 16 08:59:59 2035 GMT[0;0m
+    [0;32m/etc/pki/trust/anchors/SwissGovernmentRootCAIII.crt[0;0m
+    [0;32mnotAfter=Apr 15 06:59:59 2041 GMT[0;0m
+    [0;32m/etc/pki/trust/blacklist[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139874266875536:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140520641496720:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/ca.cfg[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140517795272336:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/velum.cfg[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140056183129744:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/velum.csr[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140015791879824:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/salt-api.cfg[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140537771792016:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/salt-api.csr[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140548465464976:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/ldap.cfg[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140087571875472:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/ldap.csr[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140567646037648:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/serial.old[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139780501816976:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/serial[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140094731826832:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/index.txt.old[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139643607758480:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/index.txt[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140225104344720:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/index.txt.attr.old[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140329910896272:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_work/index.txt.attr[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139834590664336:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_certs[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139690733356688:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/_certs/1000.pem[0;0m
+    [0;32mnotAfter=Nov 20 13:45:04 2019 GMT[0;0m
+    [0;32m/etc/pki/_certs/1001.pem[0;0m
+    [0;32mnotAfter=Nov 20 13:45:04 2019 GMT[0;0m
+    [0;32m/etc/pki/_certs/1002.pem[0;0m
+    [0;32mnotAfter=Nov 20 13:45:04 2019 GMT[0;0m
+    [0;32m/etc/pki/_certs/1003.pem[0;0m
+    [0;32mnotAfter=Nov  3 09:36:32 2020 GMT[0;0m
+    [0;32m/etc/pki/private[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139835816437392:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/ca.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139630730659472:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/velum-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 20 13:45:04 2019 GMT[0;0m
+    [0;32m/etc/pki/private/salt-api.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140240141190800:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/salt-api-bundle.pem[0;0m
+    [0;32mnotAfter=Nov  3 09:36:32 2020 GMT[0;0m
+    [0;32m/etc/pki/private/ldap-bundle.pem[0;0m
+    [0;32mnotAfter=Nov 20 13:45:04 2019 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140029118580368:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/velum.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140631370090128:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/ldap.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140523027580560:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/private/node:l021000002401a-bundle.pem[0;0m
+    [0;32mnotAfter=Oct  8 16:36:40 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kube-apiserver-proxy-bundle.pem[0;0m
+    [0;32mnotAfter=Oct  8 16:36:41 2020 GMT[0;0m
+    [0;32m/etc/pki/private/kubectl-bundle.pem[0;0m
+    [0;32mnotAfter=Oct  8 16:36:49 2020 GMT[0;0m
+    [0;32m/etc/pki/private/velum:l021000002401a-bundle.pem[0;0m
+    [0;32mnotAfter=Oct  8 16:36:50 2020 GMT[0;0m
+    [0;32m/etc/pki/private/ldap:l021000002401a-bundle.pem[0;0m
+    [0;32mnotAfter=Oct  8 16:36:51 2020 GMT[0;0m
+    [0;32m/etc/pki/ca.crt[0;0m
+    [0;32mnotAfter=Nov 17 13:45:04 2028 GMT[0;0m
+    [0;32m/etc/pki/issued_certs[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139903221982864:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/issued_certs/E6:A8:C8:DA:AD:B5:DD:21.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:39:33 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/87:6E:21:5D:4D:64:E7:E3.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:39:33 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/BD:D1:7B:72:AF:83:84:9D.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:39:33 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/11:BF:DB:87:67:80:3A:B6.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:39:49 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/98:C1:FC:54:F8:BB:67:D9.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:39:50 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/24:A7:35:C7:27:D9:8C:8D.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:02 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/09:98:FA:BE:6E:DA:C6:ED.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:03 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/FE:EF:1C:60:6F:06:34:15.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:04 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/5D:7F:29:47:DF:83:1B:6B.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:08 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/71:70:E3:0B:9B:24:F4:FC.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:09 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/8E:07:99:A2:BF:1E:A7:84.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:12 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/FE:12:EB:24:EA:C8:8F:36.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:17 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/CA:22:50:65:E7:FD:03:F7.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:20 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/D1:87:BD:A2:CE:C4:49:93.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:21 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A6:2F:6A:7A:01:48:09:72.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:23 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/DE:ED:29:6B:AF:5C:EF:8E.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:28 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/54:1F:F6:19:1E:73:F2:2B.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:31 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/87:29:4A:55:3A:47:09:D5.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:32 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/02:74:A3:98:CF:BD:07:FE.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:37 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/80:01:8A:2C:7F:7F:16:14.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:40 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/68:E5:C6:84:C1:2F:B8:F3.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:42 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/48:5A:4B:ED:9B:FC:D6:F8.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:46 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/B8:49:A4:8E:57:48:AB:65.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:49 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/85:4D:12:3E:82:39:75:72.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:50 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/CF:27:74:2A:2C:ED:A5:C7.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:51 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/1A:48:24:F1:1D:05:F0:C6.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:55 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/CA:3A:D9:B8:15:E1:64:E2.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:40:59 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A0:7C:33:C9:DC:CC:B6:53.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:00 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/16:DD:71:17:30:DF:45:77.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:04 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/1F:A8:2B:3E:24:86:74:F3.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:21 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/05:F8:A6:9E:9F:06:6F:8B.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:21 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A2:A8:C3:60:5C:2A:7A:27.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:22 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/BE:EA:29:2D:F5:1F:CF:40.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:39 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/05:81:C7:05:58:5D:18:BD.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:40 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/D5:B9:2F:1A:B1:ED:4B:C1.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:40 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/04:83:F1:CC:DC:4B:8D:DD.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:41 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/C1:FB:97:BD:B5:9A:61:E5.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:42 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/D0:0D:F0:F8:BB:F0:83:72.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:42 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/79:4A:45:1B:37:53:8D:F0.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:43 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/C3:4B:A8:4D:C6:A0:C9:14.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:43 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/6D:EA:B5:24:07:C1:AB:20.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:44 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/C8:0C:D8:F1:AA:68:3C:43.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:53 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/06:08:E6:AC:A5:D9:04:AD.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:53 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/76:53:3D:F4:50:E9:A3:F3.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:41:54 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/2C:6D:E4:0E:B9:54:A4:34.crt[0;0m
+    [0;32mnotAfter=Nov 20 14:42:21 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/DF:21:25:87:48:E1:77:1B.crt[0;0m
+    [0;32mnotAfter=Dec  9 13:07:46 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/09:46:9D:32:AD:C5:3E:FE.crt[0;0m
+    [0;32mnotAfter=Dec  9 13:12:43 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/68:F7:7A:B3:1E:2D:C9:34.crt[0;0m
+    [0;32mnotAfter=Dec  9 13:17:29 2019 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/3B:5B:CE:3E:16:7F:7F:E4.crt[0;0m
+    [0;32mnotAfter=Mar 27 21:18:12 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/F9:17:77:D4:4A:85:46:E3.crt[0;0m
+    [0;32mnotAfter=Mar 27 21:18:12 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/B7:D7:EB:19:E6:8E:53:19.crt[0;0m
+    [0;32mnotAfter=Mar 27 21:18:12 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A9:FB:3E:0F:47:CE:CC:D4.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:31:47 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/84:34:64:0F:06:AC:00:3B.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:31:52 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A4:78:94:3D:71:D2:49:6D.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:31:54 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/E4:1F:80:15:C5:FB:A8:8C.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:47:01 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/28:F1:CC:9C:4E:D4:B5:81.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:47:23 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/AA:5B:B3:06:14:68:5E:42.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:47:28 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/DC:92:D0:FC:A8:4E:0E:CB.crt[0;0m
+    [0;32mnotAfter=Mar 28 00:47:29 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/7F:C7:DF:3E:A9:28:BB:44.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:02:36 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A8:20:E3:1A:51:89:1B:C1.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:03:07 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/01:ED:78:3B:82:B5:B0:FE.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:03:13 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/E2:98:1B:E7:81:A5:0E:9F.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:03:15 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/17:A5:B0:9A:82:82:5D:7E.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:18:22 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/46:AA:B5:8D:18:7B:50:4E.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:52:59 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/BC:39:FA:F8:46:D4:C1:4C.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:53:01 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/B8:E4:6A:D6:BE:B8:49:E8.crt[0;0m
+    [0;32mnotAfter=Mar 28 01:53:02 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/CA:A1:20:9F:FB:5D:48:1D.crt[0;0m
+    [0;32mnotAfter=Apr  1 20:52:08 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/D3:2F:01:21:3C:51:A0:D1.crt[0;0m
+    [0;32mnotAfter=Apr  1 20:52:11 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/5A:32:8D:B2:E9:A8:F5:46.crt[0;0m
+    [0;32mnotAfter=Apr  1 20:52:12 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/AA:A4:BD:97:CC:5E:EE:2E.crt[0;0m
+    [0;32mnotAfter=Apr  1 21:07:19 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/D2:A3:5F:35:79:02:A9:5E.crt[0;0m
+    [0;32mnotAfter=Apr  1 22:10:01 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/F9:23:27:AC:42:66:4F:86.crt[0;0m
+    [0;32mnotAfter=Apr  1 23:00:04 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/4A:02:52:88:CC:02:21:E1.crt[0;0m
+    [0;32mnotAfter=Apr  1 23:00:08 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/40:D0:F5:8C:5F:2F:45:E3.crt[0;0m
+    [0;32mnotAfter=Apr  1 23:00:10 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/BB:E9:D3:75:B2:25:0C:A4.crt[0;0m
+    [0;32mnotAfter=Apr  1 23:15:17 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/F7:F8:62:D4:05:DE:48:B9.crt[0;0m
+    [0;32mnotAfter=Apr  1 23:26:16 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/21:3A:5D:10:73:A6:5E:05.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:32:50 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/75:ED:0E:01:4A:78:0C:EB.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:32:54 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A7:DA:0D:85:30:58:48:A2.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:32:55 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/E0:62:04:5F:B2:61:BF:AF.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:48:01 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/91:E2:93:3E:DA:B0:9B:32.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:48:49 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/FD:1C:87:50:CD:F7:97:A3.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:48:53 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/B9:82:28:3C:FD:3C:B4:DA.crt[0;0m
+    [0;32mnotAfter=Apr 12 07:48:54 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/40:94:41:D0:C2:3D:0E:EF.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:04:01 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/24:00:AF:3E:80:28:EC:7E.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:04:23 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/E3:1A:4D:FD:33:C9:88:32.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:04:27 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/8D:AD:87:A7:4C:89:83:60.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:04:28 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/5B:16:20:9D:BA:32:35:CF.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:19:35 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/58:2A:7F:37:89:55:05:94.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:20:41 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/91:E3:01:BA:05:22:D7:44.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:20:46 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/FC:85:04:65:1E:7A:57:C4.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:20:47 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/3B:03:16:24:BD:3F:9B:32.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:35:53 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/BA:53:F8:E8:32:32:9E:3D.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:49:12 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/04:C4:0B:9F:2C:1F:C2:78.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:49:13 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/75:6F:61:F3:59:FC:A7:8D.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:49:13 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/45:CF:49:12:D2:F6:91:5A.crt[0;0m
+    [0;32mnotAfter=Apr 12 08:49:23 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/33:F9:01:AA:93:96:CE:D9.crt[0;0m
+    [0;32mnotAfter=Apr 12 09:41:39 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/91:D0:60:21:53:F7:46:8A.crt[0;0m
+    [0;32mnotAfter=Apr 12 09:41:43 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/BE:EE:0A:A3:4E:9A:51:6D.crt[0;0m
+    [0;32mnotAfter=Apr 12 09:41:44 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/5A:A2:7B:EF:32:85:D6:FA.crt[0;0m
+    [0;32mnotAfter=Apr 12 09:56:50 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/0B:B9:2D:B6:9C:FE:87:7E.crt[0;0m
+    [0;32mnotAfter=Apr 12 10:07:39 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/14:23:C0:05:72:61:EC:50.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:36:40 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/F7:0B:A5:12:C0:B3:BE:F8.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:36:41 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/92:F0:56:EA:A7:CD:4D:57.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:36:49 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/21:3C:DA:4C:B8:A9:42:7C.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:36:50 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/12:79:1B:6E:8C:70:C5:98.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:36:51 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/E8:56:2B:A5:F3:F4:84:E5.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:36:57 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/C7:AA:DB:18:94:E6:95:BA.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:37:17 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/1A:9D:28:EE:C6:59:63:18.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:37:19 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/D8:5F:C1:90:15:33:97:3C.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:37:30 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/0D:48:EF:2B:81:23:E5:BD.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:37:45 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/4D:7F:CC:34:95:1E:E6:22.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:37:59 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/40:2C:7B:E5:72:10:A9:CD.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:43:06 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A4:9E:49:CA:18:DD:86:E3.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:43:15 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A9:6E:26:70:A2:36:87:E7.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:43:40 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/30:02:BB:73:2B:8D:34:04.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:43:41 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/26:7E:A5:17:69:3C:2C:99.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:43:48 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/06:6B:DD:02:1A:1B:75:D6.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:43:49 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/16:D4:B1:75:97:F5:5A:CC.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:43:50 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/8D:22:18:66:B3:10:CE:44.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:48:49 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/C0:37:E5:B9:4B:AA:58:84.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:48:58 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/CF:DC:9C:D9:FB:0B:DC:78.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:49:21 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/FC:86:CA:77:23:D6:39:14.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:49:22 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/DA:8F:86:69:C1:6F:D2:AB.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:49:29 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/3E:C7:F0:D0:06:67:51:AA.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:49:30 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A4:0C:76:97:6F:85:9A:5C.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:49:31 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/E9:57:30:DB:BF:53:EE:91.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:55:00 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/90:D8:4D:37:DB:F2:BD:C3.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:55:10 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/5B:67:1C:4D:D2:C5:A6:F9.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:55:32 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/0F:C5:13:34:C0:FE:AF:FF.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:55:33 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/D3:ED:C4:D0:F2:51:E2:2C.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:55:40 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/1E:58:D8:47:21:1D:E9:5A.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:55:41 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/26:C8:8C:B4:E7:DA:F4:51.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:55:42 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/36:71:E2:77:04:75:5D:A4.crt[0;0m
+    [0;32mnotAfter=Oct  8 18:48:50 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/BB:27:98:5A:7E:A9:BE:3B.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:40:49 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/B3:F7:D1:C4:0F:4E:E5:17.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:40:49 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/52:B0:E4:06:74:6C:EA:FC.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:40:49 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/6D:E6:DA:BA:93:8E:6F:3C.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:42:16 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/5A:BE:97:75:7C:F9:0C:CE.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:42:17 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/18:D1:2D:2A:EF:23:7F:99.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:42:22 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/1B:72:3E:F7:0A:B6:CC:F9.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:43:26 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/B8:C9:3D:E7:3B:DF:8A:C0.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:43:27 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/D3:FE:7B:79:15:E8:FD:92.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:43:32 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/79:C9:81:C3:DA:31:25:B1.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:43:38 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/1C:5C:21:29:2A:D5:FE:87.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:43:39 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/8B:BA:06:BA:74:53:81:D2.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:43:43 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/FD:88:99:DF:7E:31:94:C2.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:25 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/D7:05:B3:81:E3:DC:E0:BA.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:25 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/19:24:86:4B:DC:31:93:67.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:25 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/97:5F:08:45:EA:0C:80:ED.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:26 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/72:7A:72:80:B4:03:83:E2.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:26 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/BF:57:79:88:C6:C1:ED:D4.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:27 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/CE:EB:4C:02:6B:CD:25:BD.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:27 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/5D:F3:9D:A1:BC:03:F9:35.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:27 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/21:85:A7:62:54:92:10:33.crt[0;0m
+    [0;32mnotAfter=Nov 19 17:44:28 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/03:AA:46:B2:D3:83:4E:14.crt[0;0m
+    [0;32mnotAfter=Nov 19 20:00:47 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A7:30:47:F1:0C:B7:CA:F7.crt[0;0m
+    [0;32mnotAfter=Nov 19 20:00:49 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/4A:FD:E3:20:47:FC:F8:51.crt[0;0m
+    [0;32mnotAfter=Nov 19 20:00:51 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/32:09:65:AD:B9:5F:85:55.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:39:20 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/20:BF:C0:C2:2D:17:C0:35.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:39:20 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/51:D1:32:8F:60:07:1C:DE.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:39:21 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/8A:77:D6:31:EB:4C:CF:97.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:39:21 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/19:54:A6:8C:3D:51:19:F1.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:39:23 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/ED:38:23:C0:7F:E4:51:F1.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:39:23 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/87:BF:AF:3F:EE:2F:67:51.crt[0;0m
+    [0;32mnotAfter=Nov 19 22:40:24 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/22:5E:59:40:64:41:88:EA.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:21:55 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/B7:FD:68:E8:71:76:29:0A.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:21:58 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/2E:03:7E:3D:41:D7:98:D1.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:22:02 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/40:25:BF:34:D1:78:CD:F4.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:37:08 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/10:16:F9:72:61:AD:30.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:39:17 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/0C:5C:E3:48:71:76:55:5F.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:39:20 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/17:82:85:DF:48:2B:3E:F0.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:39:21 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/AE:31:5E:E6:D5:81:B7:E6.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:54:28 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/BC:16:49:DF:D5:3F:39:47.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:55:11 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/C5:8A:9F:1A:73:98:E0:5F.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:55:14 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/F1:C8:56:6F:A0:E7:76:46.crt[0;0m
+    [0;32mnotAfter=Dec  9 21:55:15 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/19:F3:A5:35:D4:38:38:DE.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:10:21 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/41:E1:12:58:24:BE:43:49.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:10:53 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/29:0A:78:14:9C:C3:50:45.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:10:56 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/9C:39:07:3F:5F:27:10:40.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:10:57 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/E5:FD:F4:93:09:AF:00:7C.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:26:05 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/C3:F6:78:17:8B:50:63:D7.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:26:28 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/4F:3F:7A:27:B7:A2:02:AA.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:26:30 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/EA:C8:57:CF:27:77:1A.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:26:32 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A9:4E:E6:C4:40:33:80:FC.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:41:40 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/9D:7C:A4:06:25:60:4D:4A.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:42:11 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/15:E5:A0:63:D8:17:52:15.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:42:13 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/DF:28:25:10:D5:16:AD:61.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:42:14 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/9C:BF:E8:93:EE:85:F2:43.crt[0;0m
+    [0;32mnotAfter=Dec  9 22:57:21 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/A3:37:2A:7C:59:07:F7:B9.crt[0;0m
+    [0;32mnotAfter=Dec 10 14:13:01 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/E9:54:83:FB:D4:BD:96:E2.crt[0;0m
+    [0;32mnotAfter=Dec 10 14:13:17 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/AC:8B:BB:C9:A3:BC:1B:D8.crt[0;0m
+    [0;32mnotAfter=Dec 10 14:13:28 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/59:E8:30:AF:5E:E8:46:84.crt[0;0m
+    [0;32mnotAfter=Dec 10 14:13:31 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/D1:3F:74:23:1A:D1:4B:C0.crt[0;0m
+    [0;32mnotAfter=Dec 10 14:13:32 2020 GMT[0;0m
+    [0;32m/etc/pki/issued_certs/B5:F2:3C:2D:A6:25:28:87.crt[0;0m
+    [0;32mnotAfter=Dec 10 14:13:40 2020 GMT[0;0m
+    [0;32m/etc/pki/sa.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140578384193168:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m139715870455440:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.key[0;0m
+    [0;32munable to load certificate[0;0m
+    [0;32m140388088714896:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE[0;0m
+    [0;32m/etc/pki/minion.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:36:40 2020 GMT[0;0m
+    [0;32m/etc/pki/kube-apiserver-proxy.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:36:41 2020 GMT[0;0m
+    [0;32m/etc/pki/kubectl-client-cert.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:36:49 2020 GMT[0;0m
+    [0;32m/etc/pki/velum.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:36:50 2020 GMT[0;0m
+    [0;32m/etc/pki/ldap.crt[0;0m
+    [0;32mnotAfter=Oct  8 16:36:51 2020 GMT[0;0m
+    [0;32m/etc/pki/salt-api.crt.20191104[0;0m
+    [0;32mnotAfter=Nov 20 13:45:04 2019 GMT[0;0m
+    [0;32m/etc/pki/salt-api.crt[0;0m
+    [0;32mnotAfter=Nov  3 09:36:32 2020 GMT[0;0m
